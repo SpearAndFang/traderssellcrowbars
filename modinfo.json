@@ -1,0 +1,9 @@
+{
+	"type": "content",
+	"modid": "traderssellcrowbars",
+	"name": "Traders Sell Crowbars",
+	"description": "The treasure hunter trader sells crowbars from the Translocator Engineering Redux mod.",
+	"authors":["SpearAndFang"],
+	"version": "0.0.1",
+	"dependencies": {},
+}
